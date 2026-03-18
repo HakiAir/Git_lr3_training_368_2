@@ -14,7 +14,7 @@ public class SimpleCalculator {
         result = result - value;
     }
 
-    public void multiply(double value) {
+    public void multiply(double value) { 
         result = result * value;
     }
 
